@@ -1,0 +1,30 @@
+ID:1
+Name:Biance
+Password:Brunch
+Age:18
+Gender:F
+ContactNumber:)(!*&@^#
+Prescription:Prescript 1^Prescription Details|
+MedHistory:Chr1, Chr2, Chr3, Chr4^Trt1, Trt2, Trtr3, Trt4^All1, All2, All3, All4|
+Appointments:BOoking TItle^00/00/00^This is a description for Booking|
+}
+ID:2
+Name:Carlo
+Password:brunc
+Age:19
+Gender:M
+ContactNumber:09825824653
+Prescription:
+MedHistory:
+Appointments:
+}
+ID:3
+Name:Dummy acc
+Password:123
+Age:19
+Gender:M
+ContactNumber:1323523523
+Prescription:
+MedHistory:
+Appointments:
+}
